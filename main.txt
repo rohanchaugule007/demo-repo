@@ -2,3 +2,7 @@ the data will be commited to main branch
 from there i am going to check if i can merge the data to my local branch. 
 My main branch will be a few commits ahead. 
 But local branch might be a few commits behind 
+
+Successful in creating a pull request from the main branch. 
+And now i have the latest and the greatest updates from the main branch. 
+
