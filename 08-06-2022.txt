@@ -1,0 +1,12 @@
+meeting with sarah: 
+
+1 pass - done
+2 pass - done
+3 pass - done
+4 pass - done
+5 pass - done
+6 pass - done
+7 pass - done
+8 fail - done
+9 fail - done 
+10 pass - done 
