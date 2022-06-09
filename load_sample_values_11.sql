@@ -1,5 +1,12 @@
 -- checking for additional comments
 -- adding some lines of code
+
+select * from student 
+select * from student1 
+select * from table
+select * from table1 
+select * from lapsed_reinstated
+
 USE [Payments]
 GO
 /****** Object:  StoredProcedure [RNS].[Load_Sample_Values]    Script Date: 07-06-2022 23:30:12 ******/
