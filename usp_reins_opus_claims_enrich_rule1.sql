@@ -1,5 +1,4 @@
 /****** Object:  StoredProcedure [IDS].[usp_Reins_Opus_Claims_Enrich_Rule1]    Script Date: 6/13/2022 8:05:40 PM ******/
--- experiment 1 branch
 
 SET ANSI_NULLS ON
 GO
